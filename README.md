@@ -5,7 +5,7 @@ Our goal in this project is to create a web page using bootstrap at a basic leve
 
 ## Expected Outcome
 
-// ![Project 006 Snapshot](./bootstrap.gif);
+![Project 017](./Project.gif);
 
 ## Objective
 
