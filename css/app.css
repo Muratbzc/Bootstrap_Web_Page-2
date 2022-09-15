@@ -73,10 +73,6 @@ section#instructors .socials i:hover {
   opacity: 0.5;
 }
 
-.card-text {
-  height: 14rem;
-}
-
 /*! ----------- 4- STUDENTS SECTION ----------*/
 
 /*! ----------- 5- COURSES SECTION ----------- */
@@ -87,7 +83,6 @@ section#instructors .socials i:hover {
 
 #courses .nav-link {
   color: white;
-  /* background-color: red; */
 }
 
 section#courses .nav-item .nav-link.active {
